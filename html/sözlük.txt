@@ -1,0 +1,51 @@
+## Yorum Satırları
+
+**HTML:**
+
+* **Ana Sayfa:**
+    * `section.header__container` : Bu bölüm ana sayfa başlığını ve içeriğini içerir.
+    * `div.header__content` : Bu bölüm ana sayfa başlığı ve alt başlığını içerir.
+    * `div.header__btn` : Bu bölüm "Daha Fazla Bilgi İçin Tıklayın" butonunu içerir.
+* **Ekibimiz:**
+    * `section.banner__container` : Bu bölüm ekip üyelerini ve sunduğunuz hizmetleri gösteren banner'ları içerir.
+    * `div.banner__grid` : Bu bölüm banner'ları içerir.
+    * `div.banner__card` : Bu bölüm her bir banner'ı içerir.
+    * `div.banner__strip` : Bu bölüm banner şeritlerini içerir.
+    * `div.banner__strip__card` : Bu bölüm her bir banner şerit kartını içerir.
+* **Hakkımızda:**
+    * `section.about__container` : Bu bölüm şirketiniz ve misyonunuz hakkında bilgi içerir.
+    * `p.section__description` : Bu paragraf şirketinizin hikayesini ve misyonunu tanımlar.
+* **Özellikler:**
+    * `section.feature__container` : Bu bölüm H2R motosikleti hakkında bilgi içerir.
+    * `div.feature__grid` : Bu bölüm H2R motosikletiyle ilgili metni ve videoyu içerir.
+    * `div.feature__content` : Bu bölüm H2R motosikletiyle ilgili metni içerir.
+    * `div.feature__video` : Bu bölüm H2R motosikleti videosunu içerir.
+* **Son Haberler:**
+    * `section.blog__container` : Bu bölüm blog gönderilerinizi içerir.
+    * `div.blog__grid` : Bu bölüm blog gönderilerini içerir.
+    * `div.blog__card` : Bu bölüm her bir blog gönderisini içerir.
+    * `div.blog__header` : Bu bölüm blog gönderisinin başlığını ve meta verilerini içerir.
+    * `div.blog__content` : Bu bölüm blog gönderisinin içeriğini içerir.
+* **Instagram:**
+    * `section.instagram__container` : Bu bölüm Instagram akışınızı içerir.
+* **Footer:**
+    * `footer.footer__container` : Bu bölüm altbilgi içeriğini içerir.
+    * `div.footer__col` : Bu bölüm altbilgideki sütunları içerir.
+    * `div.footer__socials` : Bu bölüm sosyal medya bağlantılarını içerir.
+    * `div.footer__bar` : Bu bölüm telif hakkı bilgisini içerir.
+    * `form` : Bu form, kullanıcıların e-posta adreslerini girerek haber bülteninize abone olmalarını sağlar.
+* **JavaScript:**
+    * `script` etiketi: Bu etiket, `scrollreveal` kütüphanesini yükler.
+    * `script` etiketi: Bu etiket, `site.js` dosyanızı yükler.
+
+**Genel Yorumlar:**
+
+* Her `section` öğesi için, hangi içeriği içerdiğini açıklayan bir yorum satırı ekleyin.
+* Her `div` öğesi için, hangi amacı yerine getirdiğini açıklayan bir yorum satırı ekleyin.
+* Her `img` öğesi için, hangi görseli temsil ettiğini açıklayan bir yorum satırı ekleyin.
+* Her `a` öğesi için, nereye bağlantı kurduğunu açıklayan bir yorum satırı ekleyin.
+* Her `form` öğesi için, amacını açıklayan bir yorum satırı ekleyin.
+* Her `input` öğesi için, hangi veriyi topladığını açıklayan bir yorum satırı ekleyin.
+* Her `button` öğesi için, ne yaptığına dair bir açıklama ekleyin.
+* Her `script` etiketi için, hangi dosyayı yüklediğini ve ne işe yaradığını açıklayan bir yorum satırı ekleyin.
+
